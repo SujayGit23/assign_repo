@@ -1,3 +1,6 @@
 This is a first line
+<<<<<<< HEAD
 This is from feature1
+=======
 This is from feature2
+>>>>>>> feature2
